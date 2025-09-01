@@ -61,5 +61,17 @@ const projects: IProjectItem[] = [
     githubUrl: "https://github.com/mkv-manish/bookStore-App",
     tags: ["react.js", "javascript", "mongodb", "node.js"],
   },
+  {
+  id: "bookFinder",
+  title: "Book Finder App",
+  description:
+    "The Book Finder App is a React, TypeScript and Tailwind project that allows users to search books by title using the Open Library API, with pagination, responsive UI, and error handling.",
+  icon: "/skills/react.svg",
+  repoType: RepoType.Public,
+  projectType: ProjectType.Personal,
+  githubUrl: "https://github.com/mkv-manish/book-finder",
+  url: "https://book-finder-dusky.vercel.app",
+  tags: ["react.js", "typescript", "tailwindcss","openlibrary-api"],
+}
 ];
 export default projects;
