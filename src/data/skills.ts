@@ -58,6 +58,11 @@ const skills: ISkillListItem[] = [
         title: "Express.js",
         level: SkillLevel.Expert,
         icon: "/skills/express.svg",
+      },
+      {
+        title: "Java",
+        level: SkillLevel.Expert,
+        icon: "/skills/java.svg",
       }
     ],
   },
