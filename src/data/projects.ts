@@ -23,7 +23,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/mkv-manish/portfolio",
-    url: "https://devmanish.info",
+    url: "https://mkmanish.info",
     tags: ["Next.js", "Sass", "Web Development"],
   },
   {
